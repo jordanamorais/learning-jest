@@ -1,0 +1,19 @@
+{
+  "name": "learning-jest",
+  "version": "1.0.0",
+  "description": "Learning JS Tests with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordanamorais/learning-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordanamorais/learning-jest/issues"
+  },
+  "homepage": "https://github.com/jordanamorais/learning-jest#readme"
+}
